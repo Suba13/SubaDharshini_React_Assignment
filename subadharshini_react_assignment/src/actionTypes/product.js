@@ -1,0 +1,17 @@
+export const PRODUCT_LIST = "PRODUCT_LIST";
+export const PRODUCT_LIST_SUCCESS = "PRODUCT_LIST_SUCCESS";
+export const PRODUCT_LIST_FAILURE = "PRODUCT_LIST_FAILURE";
+
+export const ADD_ITEM = "ADD_ITEM";
+export const ADD_ITEM_SUCCESS = "ADD_ITEM_SUCCESS";
+
+
+export const EDIT_ITEM = "EDIT_ITEM";
+export const EDIT_ITEM_SUCCESS = "EDIT_ITEM_SUCCESS";
+export const NEW_EDIT_ITEM = "NEW_EDIT_ITEM";
+
+
+export const DELETE_ITEM = "DELETE_ITEM";
+
+export const PAGINATION = "PAGINATION";
+
